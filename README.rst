@@ -1,9 +1,7 @@
 ####################
 IS 210 Assignment 04
 ####################
-************
-Warmup Tasks
-************
+
 
 :College: CUNY School of Professional Studies
 :Course-Name: Software Application Programming I
