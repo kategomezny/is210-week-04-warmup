@@ -282,7 +282,7 @@ terminal in the same directory as your code repository and type:
 Submission
 ==========
 
-Your code should be submitted via Blackboard, as a python file(s).
+Your code should be submitted via Blackboard, as a compressed folder containing python files.
 
 .. _GitHub: https://github.com/
 .. _Python String Documentation: https://docs.python.org/2/library/stdtypes.html
